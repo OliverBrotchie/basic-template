@@ -2,7 +2,7 @@
 
 # Basic Template
 
-**My basic HTML/CSS template:** [Sample](https://oliverbrotchie.github.io/basic-template)
+My basic HTML/CSS template: [Sample](https://oliverbrotchie.github.io/basic-template)
 
 I use this template for all my projects. It includes my fonts, layout grid and styles. You can see examples of previous versions over on my Github, CSS Fingerprint and Interface.js.
 
